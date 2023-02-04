@@ -10,7 +10,7 @@ Este projeto foi criado acompanhando o livro "Bootstrap 4: Conheça a biblioteca
 - Bootstrap 4 (https://getbootstrap.com/)
 - HTML
 - CSS
-- JavaScript (opcional)
+- JavaScript
 
 ## Recursos
 - Layout responsivo
