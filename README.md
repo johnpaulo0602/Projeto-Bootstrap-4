@@ -1,7 +1,7 @@
 # Projeto com Bootstrap 4
 
 <p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
 Este projeto foi criado acompanhando o livro "Bootstrap 4: Conheça a biblioteca front-end mais utilizada no mundo" escrito por Natan Souza. O objetivo deste projeto é aplicar os conhecimentos adquiridos ao longo do livro sobre a biblioteca Bootstrap 4.
