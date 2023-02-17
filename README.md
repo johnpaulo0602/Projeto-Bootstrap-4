@@ -23,6 +23,6 @@ Para executar o projeto em sua máquina, basta clonar o repositório e abrir o a
 ## Considerações finais
 Este projeto é apenas um exemplo de como a biblioteca Bootstrap pode ser utilizada. Sinta-se à vontade para personalizá-lo e adicionar novas funcionalidades.```
 
-<p align="center">
+<p>
 <img src="https://m.media-amazon.com/images/I/31DFOV+KGnL.jpg" width="150px">
 </p>
